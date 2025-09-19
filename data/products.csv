@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,Price
+P001,Smartwatch Max,Electronics,811.63
+P002,Speaker Series,Electronics,1906.36
+P003,Laptop Series,Electronics,1490.79
+P004,Phone X,Electronics,1237.45
+P005,Smartwatch Series,Electronics,396.44
+P006,Camera X,Electronics,396.39
+P007,Headphones Pro,Electronics,210.36
+P008,Headphones 2000,Electronics,1745.73
+P009,Sofa Eco,Home,304.55
+P010,Sofa Eco,Home,356.96
+P011,Lamp Lite,Home,20.09
+P012,Chair Classic,Home,485.26
+P013,Sofa Deluxe,Home,417.9
+P014,Table Classic,Home,114.05
+P015,Shirt Basic,Apparel,58.64
+P016,T-Shirt Comfort,Apparel,59.1
+P017,Jeans Premium,Apparel,94.75
+P018,Dress Premium,Apparel,159.8
+P019,Jeans Premium,Apparel,132.42
+P020,Bicycle Pro,Sports,243.61
+P021,Yoga Mat Pro,Sports,495.3
+P022,Yoga Mat Sport,Sports,124.5
+P023,Doll Kids,Toys,61.97
+P024,Doll Classic,Toys,76.44
+P025,Doll Fun,Toys,93.93
